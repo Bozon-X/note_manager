@@ -10,7 +10,7 @@ issue_date = input("Введите дату истечения заметки в
 temp_created_date = created_date[:5]
 temp_issue_date = issue_date[:5]
 print("Имя пользователя:", username)
-print("Заголовок заметки:", title_list)
+print("Заголовки заметки:", title_list)
 print("Описание заметки:", content)
 print("Статус заметки:", status)
 print("Дата создания заметки:", temp_created_date)
