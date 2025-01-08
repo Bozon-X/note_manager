@@ -1,2 +1,2 @@
-# note_manager-
+# note_manager
 Homework project
